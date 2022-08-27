@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "615038594223",
+    "project_id": "borghi-d-arberia---official",
+    "storage_bucket": "borghi-d-arberia---official.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615038594223:android:27a8ee760d8fdd03ea385a",
+        "android_client_info": {
+          "package_name": "com.borghidarberia.it.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615038594223-2igolij9hku3isnkdvbc54g8jgvoc1d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEF3iFrBf--B1OsaAEPEYVOwKIp6W6n0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615038594223-2igolij9hku3isnkdvbc54g8jgvoc1d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
